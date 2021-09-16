@@ -1,0 +1,25 @@
+{
+  "name": "bot-discord-mmo-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasgabrielmoura/bot-discord-mmo-rpg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasgabrielmoura/bot-discord-mmo-rpg/issues"
+  },
+  "homepage": "https://github.com/lucasgabrielmoura/bot-discord-mmo-rpg#readme",
+  "dependencies": {
+    "config.json": "0.0.4",
+    "cron": "^1.8.2",
+    "discord.js": "^12.5.1"
+  }
+}
